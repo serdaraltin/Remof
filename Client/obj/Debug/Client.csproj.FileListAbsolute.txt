@@ -1,0 +1,9 @@
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\bin\Debug\Client.exe
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\bin\Debug\Client.pdb
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.Ekran.resources
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.exe
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.pdb
+c:\users\main\documents\visual studio 2015\Projects\Remof\Client\obj\Debug\Client.client_main.resources

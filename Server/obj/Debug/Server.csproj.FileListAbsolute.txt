@@ -1,0 +1,9 @@
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\bin\Debug\Server.exe
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\bin\Debug\Server.pdb
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.server_main.resources
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.exe
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\obj\Debug\Server.pdb
+c:\users\main\documents\visual studio 2015\Projects\Remof\Server\bin\Debug\Server.exe.config
